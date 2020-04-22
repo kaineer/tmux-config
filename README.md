@@ -7,7 +7,7 @@ Tmux configuration
 2. Put into `.tmux.conf` importing code:
 
 ```
-TMUX_CFG=/home/username/git/config/config
+TMUX_CFG=/home/username/git/config/tmux
 source $TMUX_CFG/config.conf
 ```
 (modify TMUX\_CFG value as you need)
