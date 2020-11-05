@@ -1,0 +1,12 @@
+modes:
+  xplayer:
+    trigger: 'C-q'
+    commands:
+      - bind: 'Space'
+        keys: 'l'
+        target: 'media:zsh'
+      - bind: 'h'
+        keys: '"xp l" Enter'
+      - bind: 'q'
+        commands:
+          - 'run-shell "pkill -9 mplayer"'
