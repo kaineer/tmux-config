@@ -1,7 +1,7 @@
 modes:
   xplayer:
     trigger: 'C-q'
-    commands:
+    bindings:
       - bind: 'Space'
         keys: 'l'
         target: 'media:zsh'
