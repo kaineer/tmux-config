@@ -16,4 +16,6 @@ TMUX_CFG=/home/username/git/config/tmux
 source $TMUX_CFG/config.conf
 ```
 
+or just run make at repository root.
+
 Run tmux!
