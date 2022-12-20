@@ -1,0 +1,13 @@
+
+highlight-background = #3B4252
+highlight-current-line = #434C5E
+highlight-selection = #4C566A
+highlight-foreground = #ECEFF4
+highlight-comment = #8FBCBB
+highlight-red = #BF616A
+highlight-orange = #D08770
+highlight-yellow = #EBCB8B
+highlight-green = #A3BE8C
+highlight-aqua = #88C0D0
+highlight-blue = #5E81AC
+highlight-purple = #B48EAD
