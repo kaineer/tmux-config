@@ -1,3 +1,4 @@
+# https://www.nordtheme.com/
 
 highlight-background = #3B4252
 highlight-current-line = #434C5E
